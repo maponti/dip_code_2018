@@ -4,7 +4,7 @@
 #### Conteúdo:
 Pasta [Imagens](./imagens) contém as imagens utilizadas nos códigos
 
-1. [Fundamentos](01-fundamentals.ipynb): bibliotecas básicas, carregando imagem, processamento de pixels, exibindo imagens e salvando em disco
+1. [Fundamentos](./01-fundamentals.ipynb): bibliotecas básicas, carregando imagem, processamento de pixels, exibindo imagens e salvando em disco
 
 
 	
